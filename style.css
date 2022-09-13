@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(194, 190, 190, 0.973);
+}
+h1{
+    text-align: center;
+}
+.titulo{
+    background-color: aliceblue;
+    margin: auto;
+}
+.pre-titulo{
+    text-align: center;
+}
+footer{
+    background-color: aliceblue;
+}
+.li{
+    display: inline;
+    padding: 10px;
+}
+.link{
+   
+color: black;
+}
+.li-produto{
+    padding: 10px;
+}
+.honda-hr{
+    text-align: center;
+}
